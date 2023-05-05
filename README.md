@@ -3,9 +3,9 @@
 print("hello")
 ```
 
-h1 Headding  #
-h2 Headding  ##
-h3 Headding  ###
+###h1 Headding  #
+###h2 Headding  ##
+###h3 Headding  ###
 
 # Embedded Link
 ### [alt text](url)
@@ -13,7 +13,7 @@ h3 Headding  ###
 
 # Add your files or IMG
 #### [][alt text](URL) 
--[][alt text]("C:\Users\Gurunath\Downloads\Screenshot 2023-05-05 172859.png") 
+- [][alt text]("C:\Users\Gurunath\Downloads\Screenshot 2023-05-05 172859.png") 
 
 # Embedded Code
  ```
